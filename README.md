@@ -5,9 +5,8 @@ CA: 3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 
 * Chart:
 
-* CoinGecko: https://www.geckoterminal.com/solana/pools/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
-
+* CoinGecko:
+  
 * Graph:
 
-* MCAP: www.coinmarketcap.com/dexscan/solana/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump/
-
+* MCAP:
