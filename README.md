@@ -4,3 +4,5 @@ CA: 3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 * Block Explorer: https://solscan.io/account/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 
 * Chart: https://dexscreener.com/solana/4nq8ebmd6jmwp1rj7vemwnapnvw81xv5adsrqef49mqw
+
+* Rug Check: https://rugcheck.xyz/tokens/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
