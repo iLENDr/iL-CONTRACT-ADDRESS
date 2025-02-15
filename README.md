@@ -3,7 +3,7 @@ CA: 3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 
 * Block Explorer: https://solscan.io/account/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 
-* Chart: https://www.ilendr.com/memep%C3%A1i
+* Chart: https://www.ilendr.com/memepai
   
 * Rug Check: https://rugcheck.xyz/tokens/3M2e3bzTrWEGksbHwbubB2nAxCxZBHzo6KTSvY7spump
 
